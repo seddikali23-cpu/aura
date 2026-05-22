@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+{
+    "require": {
+        "ccxt/ccxt": "^3.0",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "config": {
+        "ignore-platform-reqs": true
+    }
+}
+=======
+{
+    "require": {
+        "ccxt/ccxt": "^1.93",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "config": {
+        "ignore-platform-reqs": true
+    }
+}
+>>>>>>> Stashed changes
